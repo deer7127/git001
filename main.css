@@ -4,3 +4,8 @@ header{
     background-size: cover;
     background-position: center bottom;
 }
+footer{
+    height: 100px;
+    background: #000;
+    color: #fff;
+}
